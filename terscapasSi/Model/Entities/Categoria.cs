@@ -27,6 +27,10 @@ namespace terscapasSi.Model.Entities
         public string Name { get; set; }
         public bool Activa {  get; set; }
 
+       public virtual List<Producto> Productos { get; set; }
+
+
+
 
 
     }

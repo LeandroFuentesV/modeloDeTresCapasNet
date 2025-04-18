@@ -130,3 +130,4 @@ C:\Users\mange\Desktop\NET\modelo de tres capas\terscapasSi\terscapasSi\obj\Debu
 C:\Users\mange\Desktop\NET\modelo de tres capas\terscapasSi\terscapasSi\obj\Debug\net8.0-windows\terscapasSi.genruntimeconfig.cache
 C:\Users\mange\Desktop\NET\modelo de tres capas\terscapasSi\terscapasSi\obj\Debug\net8.0-windows\ref\terscapasSi.dll
 C:\Users\mange\Desktop\NET\modelo de tres capas\terscapasSi\terscapasSi\obj\Debug\net8.0-windows\terscapasSi.Properties.Resources.resources
+C:\Users\mange\Desktop\NET\modelo de tres capas\terscapasSi\terscapasSi\obj\Debug\net8.0-windows\terscapasSi.sourcelink.json

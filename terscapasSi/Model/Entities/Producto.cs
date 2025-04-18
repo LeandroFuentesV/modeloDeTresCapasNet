@@ -34,11 +34,19 @@ namespace terscapasSi.Model.Entities
         [Range(0,double.MaxValue, ErrorMessage = "debe ser un numero positivo" )]
         public double Precio { get; set; }
 
-        [MaxLength(50, ErrorMessage = "Maximo 50 catracteres")]
-        public string Categoria { get; set; }
+        //[MaxLength(50, ErrorMessage = "Maximo 50 catracteres")]
+        //public string Categoria { get; set; }
 
         [Range(0, int.MaxValue, ErrorMessage = "Debe ser un valor positivo")]
         public int Stock { get; set; }
+
+
+        [ForeignKey("CategoriaId")]
+        public int CategoriaId { get; set; }
+        public virtual Categoria Categoria { get; set; }
+
+
+
 
     }
 }

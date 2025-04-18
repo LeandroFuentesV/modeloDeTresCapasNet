@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("terscapasSi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d20d8671270947562cdf3b917dcc833003349aef")]
 [assembly: System.Reflection.AssemblyProductAttribute("terscapasSi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("terscapasSi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

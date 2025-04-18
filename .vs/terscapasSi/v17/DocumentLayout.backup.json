@@ -3,30 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\model\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\model\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Migrations\\20250417012924_CARGANUEVA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:terscapasSi\\Migrations\\20250417012924_CARGANUEVA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductosNUEVO/True/SqlTable/dbo.Producto.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductosNUEVO/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\forms\\productoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\forms\\productoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\forms\\productoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\forms\\productoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|c:\\users\\mange\\desktop\\net\\modelo de tres capas\\terscapassi\\terscapassi\\model\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32F7D2-547E-433E-A2F7-5FB813969480}|terscapasSi\\terscapasSi.csproj|solutionrelative:terscapassi\\model\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductosNUEVO/True/SqlTable/dbo.Categoria.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,86 +37,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserControllers.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Controllers\\UserControllers.cs",
-              "RelativeDocumentMoniker": "terscapasSi\\Controllers\\UserControllers.cs",
-              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Controllers\\UserControllers.cs",
-              "RelativeToolTip": "terscapasSi\\Controllers\\UserControllers.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvy0AAAAmAAAAAAAAAA==",
+              "Title": "20250417012924_CARGANUEVA.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Migrations\\20250417012924_CARGANUEVA.cs",
+              "RelativeDocumentMoniker": "terscapasSi\\Migrations\\20250417012924_CARGANUEVA.cs",
+              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Migrations\\20250417012924_CARGANUEVA.cs",
+              "RelativeToolTip": "terscapasSi\\Migrations\\20250417012924_CARGANUEVA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:07:16.144Z",
+              "WhenOpened": "2025-04-17T01:29:24.802Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserForm.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\UserForm.cs",
-              "RelativeDocumentMoniker": "terscapasSi\\Forms\\UserForm.cs",
-              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\UserForm.cs",
-              "RelativeToolTip": "terscapasSi\\Forms\\UserForm.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAcwLUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductoForm.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\ProductoForm.cs",
+              "RelativeDocumentMoniker": "terscapasSi\\Forms\\ProductoForm.cs",
+              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\ProductoForm.cs",
+              "RelativeToolTip": "terscapasSi\\Forms\\ProductoForm.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAcwPQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:06:52.408Z",
+              "WhenOpened": "2025-04-17T01:23:27.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Model\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "terscapasSi\\Model\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Model\\Entities\\User.cs",
-              "RelativeToolTip": "terscapasSi\\Model\\Entities\\User.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Title": "ProductoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\ProductoForm.cs",
+              "RelativeDocumentMoniker": "terscapasSi\\Forms\\ProductoForm.cs",
+              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\ProductoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "terscapasSi\\Forms\\ProductoForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:06:36.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T01:23:26.122Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Model\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "terscapasSi\\Model\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Model\\Services\\UserService.cs",
-              "RelativeToolTip": "terscapasSi\\Model\\Services\\UserService.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAcwHIAAAAAAAAAAAAAAA==",
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Model\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "terscapasSi\\Model\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Model\\Entities\\Producto.cs",
+              "RelativeToolTip": "terscapasSi\\Model\\Entities\\Producto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:06:22.828Z",
+              "WhenOpened": "2025-04-17T01:23:15.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "dbo.Categoria [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductosNUEVO/True/SqlTable/dbo.Categoria.sql",
+              "ToolTip": "dbo.Categoria [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-17T01:23:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "dbo.Producto [Datos]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductosNUEVO/True/SqlTable/dbo.Producto.sql",
               "ToolTip": "dbo.Producto [Datos]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-16T07:04:25.664Z",
+              "WhenOpened": "2025-04-17T01:22:53.458Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.Usuarios [Datos]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductosNUEVO/True/SqlTable/dbo.Usuarios.sql",
-              "ToolTip": "dbo.Usuarios [Datos]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-16T07:04:22.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\UserForm.cs",
-              "RelativeDocumentMoniker": "terscapasSi\\Forms\\UserForm.cs",
-              "ToolTip": "C:\\Users\\mange\\Desktop\\NET\\modelo de tres capas\\terscapasSi\\terscapasSi\\Forms\\UserForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "terscapasSi\\Forms\\UserForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:04:11.144Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

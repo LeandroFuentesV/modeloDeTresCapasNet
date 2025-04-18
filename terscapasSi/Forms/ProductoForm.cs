@@ -72,7 +72,8 @@ namespace terscapasSi.UI
             //*******************************
 
             //asignamos la cat desde el cmb
-            nuevoProducto.Categoria = cmbCategoria.Text;
+            
+            nuevoProducto.CategoriaId = Convert.ToInt32(cmbCategoria.SelectedValue);
 
 
             //stock desde nubId y lo convierte en int
@@ -157,7 +158,7 @@ namespace terscapasSi.UI
             //*******************************
 
             //asignamos la cat desde el cmb
-            productoActualizado.Categoria = cmbCategoria.Text;
+            productoActualizado.CategoriaId = Convert.ToInt32(cmbCategoria.SelectedValue);
 
 
             //stock desde nubId y lo convierte en int
@@ -239,7 +240,7 @@ namespace terscapasSi.UI
                 txtCodigoDeBarras.Text = producto.CodigoBarras;
                 txtDescripcion.Text = producto.Descripcion;
                 txtPrecio.Text = producto.Precio.ToString();
-                cmbCategoria.Text = producto.Categoria;
+                //cmbCategoria.Text = producto.Categoria;
                 nubStock.Value = producto.Stock;
 
                 MessageBox.Show("producto encontrado");
